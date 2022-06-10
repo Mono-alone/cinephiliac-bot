@@ -47,3 +47,4 @@ if __name__ == '__main__':
     application.add_handler(get_random_movie_handler)
 
     application.run_polling()
+
